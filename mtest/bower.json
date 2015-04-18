@@ -1,0 +1,19 @@
+{
+  "name": "mtest",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tommyfok/angular-demos",
+  "authors": [
+    "Ball <154274174@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15"
+  }
+}
